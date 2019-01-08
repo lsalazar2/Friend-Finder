@@ -1,0 +1,26 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Find a friend that closely matches you",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsalazar2/Friend-Finder.git"
+  },
+  "author": "L Salazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsalazar2/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/lsalazar2/Friend-Finder#readme"
+}
