@@ -3,7 +3,7 @@ Friend Finder matching site
 
 ## Description
 
-*Friend Finder* which simulates a dating application, matches you with a friend based on the user's responses to ten questions with values from 1 (Strongly Disagree) to 5 (Strongly Agree). Once you submit your answers another user closest your responses is returned. The match is determined by the lowest absolute difference between existing users for the ten questions.
+*Friend Finder* which simulates a dating application, matches you with a friend based on the user's responses to ten questions with values from 1 (Strongly Disagree) to 5 (Strongly Agree). Once you submit your answers another user that is closest your responses is returned (name and photo). The match is determined by the lowest absolute difference between existing users for the ten questions.
 
 The application uses Node.js and Express server on the back end and the Materialize CSS framework on the front end.
 
