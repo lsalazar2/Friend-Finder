@@ -9,7 +9,7 @@ The application uses Node.js and Express server on the back end and the Material
 
 ## Demo
 	
-*Friend Finder* is deployed to Heroku. Please check it out at: 
+*Friend Finder* is deployed to Heroku at: https://findafriendls.herokuapp.com/
 
 ## Installation
 
